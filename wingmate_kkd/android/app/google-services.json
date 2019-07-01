@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "133974688807",
+    "firebase_url": "https://wingmate-64b64.firebaseio.com",
+    "project_id": "wingmate-64b64",
+    "storage_bucket": "wingmate-64b64.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:133974688807:android:c12fbb0b82c0562b",
+        "android_client_info": {
+          "package_name": "com.firstproject.wingmate_kkd"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "133974688807-qpfdef62dej3rvfje14kftn8t89jr9ak.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.firstproject.wingmate_kkd",
+            "certificate_hash": "784c2148f6cf2131f6d621b3ccd326e1e46eb7a5"
+          }
+        },
+        {
+          "client_id": "133974688807-qst5mmndj9gu047m8aimeuqkjguavjad.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyABs4ZdnQAiFgATLEA3C4D-EVvfpZKysVU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "133974688807-qst5mmndj9gu047m8aimeuqkjguavjad.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
